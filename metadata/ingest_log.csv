@@ -1,0 +1,5 @@
+filename,checksum,rows,status,error,duration_sec,timestamp
+2025-06-05.parquet,f6fecceaee4ce1a86184f82ab0e93aff,30,success,,0.01,2025-10-19T20:46:48Z
+2025-06-05_duplicates.parquet,17481d3792876712ec74e9041a3cb422,4,success,,0.02,2025-10-19T20:54:56Z
+2025-06-05_outlier.parquet,b8b24316eff386679da151dfde9247a3,3,success,,0.01,2025-10-19T20:54:56Z
+2025-06-05_valid.parquet,760aafc920cddc52df0a84ad3b22c0ba,3,success,,0.01,2025-10-19T20:54:56Z

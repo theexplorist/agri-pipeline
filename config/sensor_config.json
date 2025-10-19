@@ -1,0 +1,27 @@
+{
+  "temperature": {
+    "min": 0,
+    "max": 50,
+    "calibration": { "multiplier": 1.02, "offset": 0.5 }
+  },
+  "humidity": {
+    "min": 0,
+    "max": 100,
+    "calibration": { "multiplier": 0.98, "offset": 0.3 }
+  },
+  "soil_moisture": {
+    "min": 0,
+    "max": 80,
+    "calibration": { "multiplier": 1.01, "offset": 0.1 }
+  },
+  "light_intensity": {
+    "min": 0,
+    "max": 1200,
+    "calibration": { "multiplier": 1.00, "offset": 0.0 }
+  },
+  "ph_level": {
+    "min": 0,
+    "max": 14,
+    "calibration": { "multiplier": 1.0, "offset": 0.0 }
+  }
+}

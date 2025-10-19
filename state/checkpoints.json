@@ -1,0 +1,36 @@
+{
+  "processed_files": {
+    "2025-06-05.parquet": {
+      "checksum": "f6fecceaee4ce1a86184f82ab0e93aff",
+      "rows": 30,
+      "status": "success",
+      "error": null,
+      "processed_at": "2025-10-19T20:46:48Z",
+      "duration_sec": 0.01
+    },
+    "2025-06-05_duplicates.parquet": {
+      "checksum": "17481d3792876712ec74e9041a3cb422",
+      "rows": 4,
+      "status": "success",
+      "error": null,
+      "processed_at": "2025-10-19T20:54:56Z",
+      "duration_sec": 0.02
+    },
+    "2025-06-05_outlier.parquet": {
+      "checksum": "b8b24316eff386679da151dfde9247a3",
+      "rows": 3,
+      "status": "success",
+      "error": null,
+      "processed_at": "2025-10-19T20:54:56Z",
+      "duration_sec": 0.01
+    },
+    "2025-06-05_valid.parquet": {
+      "checksum": "760aafc920cddc52df0a84ad3b22c0ba",
+      "rows": 3,
+      "status": "success",
+      "error": null,
+      "processed_at": "2025-10-19T20:54:56Z",
+      "duration_sec": 0.01
+    }
+  }
+}

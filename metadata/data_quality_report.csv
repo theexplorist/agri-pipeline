@@ -1,0 +1,2 @@
+total_records,invalid_value_type,invalid_timestamp,outlier_%,missing_%,sensors_with_gaps,total_missing_hours,file_name
+30,0,0,"{""temperature"": 0.0, ""humidity"": 0.0}","{""humidity"": 0.0, ""temperature"": 0.0}",3,3,2025-06-05_transformed.parquet

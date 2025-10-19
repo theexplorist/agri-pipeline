@@ -1,0 +1,40 @@
+{
+  "file_name": "2025-06-05.parquet",
+  "reading_summary": [
+    {
+      "reading_type": "temperature",
+      "record_count": 17,
+      "avg_value": 22.27,
+      "min_value": 11.24,
+      "max_value": 32.49,
+      "avg_battery": 63.33,
+      "min_battery": 26.97,
+      "max_battery": 98.73
+    },
+    {
+      "reading_type": "humidity",
+      "record_count": 13,
+      "avg_value": 24.58,
+      "min_value": 12.12,
+      "max_value": 33.29,
+      "avg_battery": 56.53,
+      "min_battery": 25.34,
+      "max_battery": 85.21
+    }
+  ],
+  "missing_data_ratio": {
+    "sensor_id_missing_ratio": 0.0,
+    "timestamp_missing_ratio": 0.0,
+    "reading_type_missing_ratio": 0.0,
+    "value_missing_ratio": 0.0,
+    "battery_missing_ratio": 0.0
+  },
+  "distinct_counts": {
+    "distinct_sensors": 5,
+    "distinct_reading_types": 2
+  },
+  "outlier_counts": {
+    "value_out_of_range": 0.0,
+    "battery_out_of_range": 0.0
+  }
+}
